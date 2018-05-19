@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dev exam</string>
+
+    <string name="err_network_is_not_available">Network is not available. Try later/</string>
+    <string name="err_unknown_try_later">Unknown error. Try later/</string>
+
+    <string name="button_ok">OK</string>
+
+    <string name="processing_request">Processing request…</string>
+    
+    <!-- activity_auth -->
+    <string name="auth_phone">Phone number</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_phone_error_empty">Phone is empty</string>
+    <string name="auth_password_error_less">Password less 5 character</string>
+    <string name="auth_password_error_more">Password more 15 character</string>
+    <string name="auth_failed">Sign In failed. Try later</string>
+
+    <!-- activity_root -->
+    <string name="root_refresh">Refresh</string>
+    <string name="root_server_sort">Sort by Server</string>
+    <string name="root_date_sort">Sort by Date</string>
+</resources>
